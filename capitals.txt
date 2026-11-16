@@ -1,0 +1,45 @@
+easy,France,Paris
+easy,Mexico,Mexico City/Ciudad de Mexico
+easy,Spain,Madrid
+easy,Italy,Rome/Roma
+easy,Germany,Berlin
+easy,United Kingdom,London/Londres
+easy,United States,Washington/Washington DC/Washington D.C.
+easy,Japan,Tokyo
+easy,China,Beijing/Pekin
+easy,Russia,Moscow/Moscu
+easy,Brazil,Brasilia
+easy,Argentina,Buenos Aires
+easy,Egypt,Cairo/El Cairo
+easy,Portugal,Lisbon/Lisboa
+easy,Greece,Athens/Atenas
+medium,Canada,Ottawa
+medium,Australia,Canberra
+medium,Turkey,Ankara
+medium,Switzerland,Bern/Berne
+medium,India,New Delhi/Delhi
+medium,South Africa,Pretoria
+medium,New Zealand,Wellington
+medium,Colombia,Bogota
+medium,Peru,Lima
+medium,Chile,Santiago
+medium,Netherlands,Amsterdam
+medium,Sweden,Stockholm
+medium,Poland,Warsaw/Varsovia
+medium,Morocco,Rabat
+medium,Thailand,Bangkok
+hard,Kazakhstan,Astana
+hard,Myanmar,Naypyidaw/Nay Pyi Taw
+hard,Nigeria,Abuja
+hard,Tanzania,Dodoma
+hard,Bolivia,Sucre/La Paz
+hard,Sri Lanka,Sri Jayawardenepura Kotte/Colombo
+hard,Vietnam,Hanoi/Ha Noi
+hard,Mongolia,Ulaanbaatar/Ulan Bator
+hard,Ethiopia,Addis Ababa
+hard,Ecuador,Quito
+hard,Uzbekistan,Tashkent
+hard,Ivory Coast,Yamoussoukro
+hard,Azerbaijan,Baku
+hard,Madagascar,Antananarivo
+hard,Suriname,Paramaribo
